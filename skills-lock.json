@@ -1,0 +1,2087 @@
+{
+  "version": 1,
+  "skills": {
+    "a11y-audit": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "engineering/a11y-audit/SKILL.md",
+      "computedHash": "82145cb47fc50f50f7a96a3f1e3302ce4fa75253a8eaa619b433ddf52f9a7932"
+    },
+    "ab-test-setup": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "marketing/ab-test-setup/SKILL.md",
+      "computedHash": "9d0f4ea2799e0efd2429cf0a6cb240fb60c1cad008a734f8bdd2d54fc72fcc75"
+    },
+    "account-executive": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "sales-success/account-executive/SKILL.md",
+      "computedHash": "d5635be1070bc74f4f0c8a5fb58da51a3c049cad780d107627f3fb6546f38688"
+    },
+    "activation-funnel": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "project-management/execution/activation-funnel/SKILL.md",
+      "computedHash": "6938134f4f150172437f613da4b3f8a93d7547d5b04dcb746fd4044660ed9390"
+    },
+    "ad-creative": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "marketing/ad-creative/SKILL.md",
+      "computedHash": "d71271cad99205ea20301a94bb10c79ce1393e232eced42f739693f90a6e69d2"
+    },
+    "aeo": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "marketing/aeo/SKILL.md",
+      "computedHash": "8a5d1ca80891c253238384185a34ab272475ac6ebe86bf616ce8634b0e71cb04"
+    },
+    "agent-designer": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "engineering/agent-designer/SKILL.md",
+      "computedHash": "88297dae3b5df977a6da747eabed6eb58e20c301286ad9c4745a393c1d157648"
+    },
+    "agent-protocol": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "engineering/agent-protocol/SKILL.md",
+      "computedHash": "7988c7d5f4d758dfc6e4e53fb67f1788a4d8498dddc23a515fa19e235dacdc76"
+    },
+    "agent-workflow-designer": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "engineering/agent-workflow-designer/SKILL.md",
+      "computedHash": "a7a7f96c3cf11508dd9976421455ad419c354e654a473e9602ac0af96faa2f52"
+    },
+    "agenthub": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "engineering/agenthub/SKILL.md",
+      "computedHash": "f07c8a3fd903e0bd84116b1e3b48eb8c525aced07769b1f4fe01d69fd76121f6"
+    },
+    "agile-coach": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "project-management/agile-coach/SKILL.md",
+      "computedHash": "d8ebbe16384bcb58cce735e4ba84e50306b63a918a7a25155a860bb7aca14384"
+    },
+    "agile-product-owner": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "product-team/agile-product-owner/SKILL.md",
+      "computedHash": "827a18d585989da683e50676b1594cf61099d00838bcfb1fcaf02d236897dc32"
+    },
+    "ai-act-readiness": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "ra-qm-team/audit-prep/ai-act-readiness/SKILL.md",
+      "computedHash": "2bb5bcc7ad5e4a69742ad7202b046f0635765ced34db06c10a1fdaca11a43216"
+    },
+    "ai-feature-prd": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "project-management/execution/ai-feature-prd/SKILL.md",
+      "computedHash": "8e354eb3605fb79dec8397468681d57650a5a5fdc8712353501c0919010ba0b9"
+    },
+    "ai-security": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "engineering/ai-security/SKILL.md",
+      "computedHash": "59879009bbefbd3f325a3de18757948383f867bd09a72c6d3532dabc63d5f58d"
+    },
+    "ai-seo": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "marketing/ai-seo/SKILL.md",
+      "computedHash": "fb6824725f96f6b0ee9fb4cd95d7e19d9fd9e1f054d13f2ccc1ca0da600f64d7"
+    },
+    "aims-audit": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "ra-qm-team/audit-prep/aims-audit/SKILL.md",
+      "computedHash": "d76b705a995b73cfb272c8bd9687a592fa2fb212da4d0076436c6f9c24c43574"
+    },
+    "analytics-engineer": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "data-analytics/analytics-engineer/SKILL.md",
+      "computedHash": "5be3cf369b9e0bfa5f50c9400488677af13bf9d18a69f8e5c020cfe4d962938b"
+    },
+    "analytics-tracking": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "marketing/analytics-tracking/SKILL.md",
+      "computedHash": "64c4bf9942747111ab37b0cebdf15f0eda570a0dba910c67ca19da82bf6c2f81"
+    },
+    "ansoff-matrix": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "project-management/strategy-frameworks/ansoff-matrix/SKILL.md",
+      "computedHash": "98841ca970e80c36a3a803ea2e71a471dc4a8d928b6cb2cec9d5eaaf08a21789"
+    },
+    "api-design-reviewer": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "engineering/api-design-reviewer/SKILL.md",
+      "computedHash": "c35f055498ca5baf6de3b77eef702639fb79aa66f47e74f9ca08a7010c084c7c"
+    },
+    "api-test-suite-builder": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "engineering/api-test-suite-builder/SKILL.md",
+      "computedHash": "29c4dc8c052272b68524df2dd1c7b256de1ad23c24223d27c13c668fb0e79642"
+    },
+    "app-store-optimization": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "marketing/app-store-optimization/SKILL.md",
+      "computedHash": "9a2b931db4a461104ab57aae0e2803762d12f2c3344e3ba2350b6ae9b167a45a"
+    },
+    "apple-hig-expert": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "product-team/apple-hig-expert/SKILL.md",
+      "computedHash": "68ea60ce9369f177a7d0e4930de080e21f9ec3d4464f430cd8bffa4043b4ea5b"
+    },
+    "atlassian-admin": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "project-management/atlassian-admin/SKILL.md",
+      "computedHash": "671c58954c973afe5b13beede98734434f4c9782fd00006974dc9f2174983aa7"
+    },
+    "atlassian-templates": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "project-management/atlassian-templates/SKILL.md",
+      "computedHash": "32b20b8aeb347335d133101ea2f8750f898448d950e95ebe880a29c501006933"
+    },
+    "aws-solution-architect": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "engineering/aws-solution-architect/SKILL.md",
+      "computedHash": "2fc22e7ebb56b5a9fb9eb0b562948307870b534c6069457dd3faa410ae2bdf0e"
+    },
+    "azure-cloud-architect": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "engineering/azure-cloud-architect/SKILL.md",
+      "computedHash": "f531f6498b9334742f862c8fdf59aeeba66682669664f2cd8ba431cd4b68d73c"
+    },
+    "backlog-refinement": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "project-management/execution/backlog-refinement/SKILL.md",
+      "computedHash": "35a55743c8dd552d0e43ec659d533f3e040445be58197d3a78184ce62ee00c3e"
+    },
+    "beta-program": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "project-management/execution/beta-program/SKILL.md",
+      "computedHash": "6ed36d4fc32e62ba8a574aa76374aec2d8e5c399a3098a36368d38c5e5dbe164"
+    },
+    "board-deck-builder": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "c-level-advisor/board-deck-builder/SKILL.md",
+      "computedHash": "daeaa93d4cadaf20655363205abd9294554f38e6fa009f1bb5bf292d591b1020"
+    },
+    "board-meeting": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "c-level-advisor/board-meeting/SKILL.md",
+      "computedHash": "a709db88ca82e284352ad5b6eb42ee5dde549f54c15fc44800284ee3ed076873"
+    },
+    "brainstorm-experiments": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "project-management/discovery/brainstorm-experiments/SKILL.md",
+      "computedHash": "16debfcbca20191f95593cbbc99cb72e49a0d0caa394ac96e33f375ca5e804de"
+    },
+    "brainstorm-ideas": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "project-management/discovery/brainstorm-ideas/SKILL.md",
+      "computedHash": "d3622aadf94dc249ba7fdf9c5a7eabcef2bcaa87d5079169dc07483af9e5c69d"
+    },
+    "brainstorm-okrs": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "project-management/execution/brainstorm-okrs/SKILL.md",
+      "computedHash": "068c092d90e5845c7cd34e0be1f79c9d5e10121b6a0825e6e1ccc202337381d0"
+    },
+    "brand-guidelines": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "marketing/brand-guidelines/SKILL.md",
+      "computedHash": "f1d480112dde5b58089ccdd22c4508b83512503b5d2830f73554fdaa8b7032fb"
+    },
+    "brand-strategist": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "marketing/brand-strategist/SKILL.md",
+      "computedHash": "21cb5bf40c2e89667dc75f5b4b4f429ce3bfa4d2c6ca5c8f6da16475692b36f2"
+    },
+    "browser-automation": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "engineering/browser-automation/SKILL.md",
+      "computedHash": "02674fe3007dd62c3fba690879165b3edc37e09aad9d233ca91309c9b4555d98"
+    },
+    "business-intelligence": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "data-analytics/business-intelligence/SKILL.md",
+      "computedHash": "281ecf64907b8876f9e58560eddb60d1075ea3223d723f97d70d12a5ead9a339"
+    },
+    "business-investment-advisor": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "finance/business-investment-advisor/SKILL.md",
+      "computedHash": "cf3742dfc032e6d83b445a81134e3864a15e91dc829f77e08d182d167d57c8b0"
+    },
+    "business-model-canvas": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "project-management/strategy-frameworks/business-model-canvas/SKILL.md",
+      "computedHash": "ae3dc965d3639a452029653d56ddf5610b1f1fe1dda3f05ca9825fd9f70b074b"
+    },
+    "calendar-prep": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "personal-productivity/calendar-prep/SKILL.md",
+      "computedHash": "c788cd534f8322e415d8a6c86c07f5a3c669f86791fb60c6963c984b7b17259f"
+    },
+    "campaign-analytics": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "marketing/campaign-analytics/SKILL.md",
+      "computedHash": "a61e63c2cf8e4cf725bb90028f0a3278acd5a8aa98898d236fa2018019f081d9"
+    },
+    "capa-officer": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "ra-qm-team/capa-officer/SKILL.md",
+      "computedHash": "8059f1ecde788058f43c16acbc0e54f4ef9aad1d35c61a746c6213dd5a25b450"
+    },
+    "ccpa-cpra-privacy-expert": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "ra-qm-team/ccpa-cpra-privacy-expert/SKILL.md",
+      "computedHash": "ec9bf7d447caf8d6e4d5e95351c9400299fce4287a80c7dff2329ea88bd92c32"
+    },
+    "ceo-advisor": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "c-level-advisor/ceo-advisor/SKILL.md",
+      "computedHash": "bf41c8051860f9848ae94f23face32ba37529c306aeb875911da15dd282aede0"
+    },
+    "cfo-advisor": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "c-level-advisor/cfo-advisor/SKILL.md",
+      "computedHash": "86e21561c6410bbe120043661cb8dbe7899b261e577d2de9566edcb9a641d1bf"
+    },
+    "change-management": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "c-level-advisor/change-management/SKILL.md",
+      "computedHash": "55092967172db3a161505e055b6de2c6b3277c4beb676a0afecdc0d31ea00b68"
+    },
+    "changelog-generator": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "engineering/changelog-generator/SKILL.md",
+      "computedHash": "605fb5292d0fb47c9646981eadc5a2da8fa4254a830df20a395a57d6493c7022"
+    },
+    "channel-economics": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "business-growth/channel-economics/SKILL.md",
+      "computedHash": "fb0d9200ae4b789ca207c2d7ddf19b3f37eb0fe02fdcdb7848740e913dd1f587"
+    },
+    "chaos-engineering": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "engineering/chaos-engineering/SKILL.md",
+      "computedHash": "e50e61823748827cd0294ec9915e6879b2c6b0477321df87882ed438b39a813e"
+    },
+    "chief-ai-officer-advisor": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "c-level-advisor/chief-ai-officer-advisor/SKILL.md",
+      "computedHash": "060eb563c4ece75aa900dda48ed61b949c8a02ffabd3631c29e7777708f8a224"
+    },
+    "chief-customer-officer-advisor": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "c-level-advisor/chief-customer-officer-advisor/SKILL.md",
+      "computedHash": "c1fe2f31f5d54e96bd2df405e19fad2c1208ff7681cbb45db8f79278b9f6062d"
+    },
+    "chief-data-officer-advisor": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "c-level-advisor/chief-data-officer-advisor/SKILL.md",
+      "computedHash": "c77341117b6e2449366c80be39bf9920d43122a170a9bbf4575e38502cfabbcc"
+    },
+    "chief-of-staff": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "c-level-advisor/chief-of-staff/SKILL.md",
+      "computedHash": "0602d3edf68932274a70691c0ef1f13f7ed4f0d0698f1e2542267af6c69f39af"
+    },
+    "chro-advisor": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "c-level-advisor/chro-advisor/SKILL.md",
+      "computedHash": "deb994c978d3b72ce7421d349adfb09d1ea05601b5e125c0c5fb79d38d98bb03"
+    },
+    "churn-prevention": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "business-growth/churn-prevention/SKILL.md",
+      "computedHash": "2479fc1883cb70e61d908bf1a3c290b97c8756f481e3f4ca228008bac8046812"
+    },
+    "ci-cd-pipeline-builder": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "engineering/ci-cd-pipeline-builder/SKILL.md",
+      "computedHash": "d5fdfcc54402ddb374834e8c3220703b16dd0d8090e7961b69f49526ff938c0e"
+    },
+    "ciso-advisor": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "c-level-advisor/ciso-advisor/SKILL.md",
+      "computedHash": "5107965925841e1e330283284c3442a8a9465fde454e61bf13e6becde1b54f3e"
+    },
+    "climate-tech-advisor": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "vertical-advisors/climate-tech/SKILL.md",
+      "computedHash": "7943d912789079f04b8a6babaea3a2114f85293ed3c15e0676cfa3e1965d1926"
+    },
+    "cmo-advisor": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "c-level-advisor/cmo-advisor/SKILL.md",
+      "computedHash": "116176cb0e469ab70b67945d1f92454699ac73c2f2a6cc8fbeb58275405e2034"
+    },
+    "code-reviewer": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "engineering/code-reviewer/SKILL.md",
+      "computedHash": "5ff649fb85e2bdd9115a3e4a4cecd35d0e8a4409b90e5fcd5690592975c4723e"
+    },
+    "codebase-onboarding": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "engineering/codebase-onboarding/SKILL.md",
+      "computedHash": "5b61b489e80e999c0a433d1ef21a3636780d2e2ccde804f56827b448888c50e6"
+    },
+    "codex-cli-specialist": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "engineering/codex-cli-specialist/SKILL.md",
+      "computedHash": "ffc5214965d0ca8564157b19ee5e9c6fd4139cc63616b6d983900b93284d9877"
+    },
+    "cold-email": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "marketing/cold-email/SKILL.md",
+      "computedHash": "324d063f67823c864efcb5b97e7e9aead2955ed144608abb04c2457160360e18"
+    },
+    "commercial-policy": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "business-growth/commercial-policy/SKILL.md",
+      "computedHash": "0b7224080b18b83381b748d87cde809407c68f8c871085fe501e2f0712b01950"
+    },
+    "company-os": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "c-level-advisor/company-os/SKILL.md",
+      "computedHash": "4f57516029e347c4fc65f696d62198b7012ab4c2fb0bcb8b635cffe2d242e511"
+    },
+    "competitive-intel": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "c-level-advisor/competitive-intel/SKILL.md",
+      "computedHash": "7a304a6056881517811b0f979f45394b9bd9bd456fd23b432493167593360945"
+    },
+    "competitive-teardown": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "business-growth/competitive-teardown/SKILL.md",
+      "computedHash": "d64000d10069661fbf7db2d7ca2bbd270fa9c1e5bcd957d5e8887af033c1e3ea"
+    },
+    "competitor-alternatives": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "business-growth/competitor-alternatives/SKILL.md",
+      "computedHash": "65270da0bdcefa7191ae44d9b1f8656ec27855dd784d11ca96a9814bc6d7c91d"
+    },
+    "compliance-readiness": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "ra-qm-team/audit-prep/compliance-readiness/SKILL.md",
+      "computedHash": "049d3c076ff034bdc42b4a4ff2e6e1189473c07718291238a18a330c2b96cf6f"
+    },
+    "confluence-expert": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "project-management/confluence-expert/SKILL.md",
+      "computedHash": "7f572c81d4b2dd2f19d2c58ffa4c909179a14adda7176fcf45bfb5a62c965eec"
+    },
+    "content-creator": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "marketing/content-creator/SKILL.md",
+      "computedHash": "f60a10294a1ed3645bde85984a81a7bcd1310b724dcd35118c84fee961e8b586"
+    },
+    "content-humanizer": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "marketing/content-humanizer/SKILL.md",
+      "computedHash": "aedc8dcb0b5287db29f2c82da12c3dad7a050c30882d43aee97ef99250a9f07a"
+    },
+    "content-production": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "marketing/content-production/SKILL.md",
+      "computedHash": "e8e2eba804ff31ac525cffb56617446b55dd5d07f462c47123a49133a31298cc"
+    },
+    "content-strategy": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "marketing/content-strategy/SKILL.md",
+      "computedHash": "5fe7999f68e3e729a436bac15ea3f257f7ff070b015712e8283106b61524d5ba"
+    },
+    "context-engine": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "engineering/context-engine/SKILL.md",
+      "computedHash": "ab6839f167e06bb0c1bef15e6c119ceb8d27b8a08870d6a65dc9a3e18d9e70db"
+    },
+    "contract-and-proposal-writer": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "business-growth/contract-and-proposal-writer/SKILL.md",
+      "computedHash": "bb603bbba51aa182e914a5d53194fdee9e679f6eee14b823a98b67705791f807"
+    },
+    "contract-review": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "legal/contract-review/SKILL.md",
+      "computedHash": "4d0d7f57990b06df0aa775c43ef7963a6a36125546de2fb53423e37a5c79165f"
+    },
+    "coo-advisor": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "c-level-advisor/coo-advisor/SKILL.md",
+      "computedHash": "028132d7e5407dec3ccfafa05f5962abf187fcd46a794d9c380f90f85713750e"
+    },
+    "copy-editing": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "marketing/copy-editing/SKILL.md",
+      "computedHash": "5b55352121cb82b6588438b8aca60e80332c11a21f9e44f2177d73cc41b39eef"
+    },
+    "copywriting": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "marketing/copywriting/SKILL.md",
+      "computedHash": "c2378b7a4ed912be73aa34e0560c6ca69b414b746c256eb4bfcef7e97c285013"
+    },
+    "cpo-advisor": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "c-level-advisor/cpo-advisor/SKILL.md",
+      "computedHash": "238d06d6cc0a54d363ec469bcb65054f810f28f9131bd99686ac5255a96cfea6"
+    },
+    "create-prd": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "project-management/execution/create-prd/SKILL.md",
+      "computedHash": "ad125e54d2cdcc4cb42e81882760e3303c30569f970fd50ffe644f37fa745585"
+    },
+    "cro-advisor": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "c-level-advisor/cro-advisor/SKILL.md",
+      "computedHash": "0ea152d28a798786d066104de12f7d940d1ce7c57a84545059936cbb5841f6ac"
+    },
+    "cs-onboard": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "c-level-advisor/cs-onboard/SKILL.md",
+      "computedHash": "3475b12dfb87c94f5146dc1ee76548105a45db9634a5ea89806a1bbbcd2a60dc"
+    },
+    "cto-advisor": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "c-level-advisor/cto-advisor/SKILL.md",
+      "computedHash": "a69fd235840d1e0229a7b8a326f02c164479b3bc7b1682b10f1dbaa73aa75d89"
+    },
+    "culture-architect": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "c-level-advisor/culture-architect/SKILL.md",
+      "computedHash": "f1a6425abc33a74871c11988bcad530be1ac9bd6d6cc01b9cd919e26d4e9e9d8"
+    },
+    "customer-feedback-triage": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "project-management/execution/customer-feedback-triage/SKILL.md",
+      "computedHash": "5e0464ca2ea8b1e924b443641f10a712fd9a2efb97840e1c1ddbc9b5813327f8"
+    },
+    "customer-interview-script": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "project-management/discovery/customer-interview-script/SKILL.md",
+      "computedHash": "fd117ee0fe1901e79bb518685c8f280eec7606e81e1b8f540e4cfdc1d9be4698"
+    },
+    "customer-success-manager": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "business-growth/customer-success-manager/SKILL.md",
+      "computedHash": "a21b42df30c6595fda7b3d8c40d5975401ac95f5f32d8dedc9a5f9439fc4c913"
+    },
+    "cycle-time-analyzer": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "project-management/execution/cycle-time-analyzer/SKILL.md",
+      "computedHash": "b0b68ad6c9144953ddc5e25f6f11fd7039faa02c3dc8257d9360e6c5b9adc12b"
+    },
+    "daci-framework": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "project-management/execution/daci-framework/SKILL.md",
+      "computedHash": "a3c9cd95b7ad8abb2d59df8fdded0fe5794dd032767ea0090d5809d19ecc14e7"
+    },
+    "data-analyst": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "data-analytics/data-analyst/SKILL.md",
+      "computedHash": "2beecfc018568384f6e9f8f9b6f8876b441abbfce40511c413e4a409568c5389"
+    },
+    "data-breach-response": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "legal/data-breach-response/SKILL.md",
+      "computedHash": "db4a07dafe7253fd0a40f0984f4343a7c8e3a22351d18ce4cdaf5060a5c3392d"
+    },
+    "data-quality-auditor": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "engineering/data-quality-auditor/SKILL.md",
+      "computedHash": "eb5e0888e74501d57994f0347381ea55b39360761065f8913da16428437e6a9e"
+    },
+    "data-scientist": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "data-analytics/data-scientist/SKILL.md",
+      "computedHash": "fa0318bb139b414b83e9a46ef9f8d7c92bac1335da59410523eb28a6ae833ae6"
+    },
+    "database-designer": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "engineering/database-designer/SKILL.md",
+      "computedHash": "779b3803754b10fa99c97e0f84f1f9ce33a8be24e28376aaf13ad5838424e56d"
+    },
+    "database-schema-designer": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "engineering/database-schema-designer/SKILL.md",
+      "computedHash": "6b3fab04a462123b35b86d334a3f125101a34f0687fd5e6da626c3571f5d1c28"
+    },
+    "deal-desk": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "business-growth/deal-desk/SKILL.md",
+      "computedHash": "2c07b0fb9a5ab44851921c2df38869401e6762207d5997b365bed09e38394cda"
+    },
+    "decision-logger": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "c-level-advisor/decision-logger/SKILL.md",
+      "computedHash": "f39d4628e418b4ae24d4775792124cfb7a8eb64b42cd1efb51320633ab02e5ce"
+    },
+    "delivery-manager": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "project-management/delivery-manager/SKILL.md",
+      "computedHash": "a58682bb7850eaa812ca472d980580534497c42bcf56db1bfd3117a8b72b0aef"
+    },
+    "dependency-auditor": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "engineering/dependency-auditor/SKILL.md",
+      "computedHash": "f179fe0dd65f9915558dc1355751a7a120b014a0c2c6adb7e8d21c6966edef77"
+    },
+    "dependency-map": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "project-management/execution/dependency-map/SKILL.md",
+      "computedHash": "7f861675fae612de4480c103267130ce9649b0bc7c6871016cf86a21c722aeec"
+    },
+    "deploy-to-vercel": {
+      "source": "vercel-labs/agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/deploy-to-vercel/SKILL.md",
+      "computedHash": "d2b5bcc7c09fdb649129ffc7dd7b647ec1b155736974b974292675afd588cb39"
+    },
+    "design-auditor": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "engineering/design-auditor/SKILL.md",
+      "computedHash": "7af2cac76c695334dcb50ff18ff88e5396fcc0fca080994f8c7caed31010ad16"
+    },
+    "design-system-lead": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "product-team/design-system-lead/SKILL.md",
+      "computedHash": "c769e8ec24173411bdcc968a147c631555d6759ee7cf98cfdea837fa59b911b4"
+    },
+    "devops-workflow-engineer": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "engineering/devops-workflow-engineer/SKILL.md",
+      "computedHash": "c79375b8d6315bfdb42cfbab2596f92ca41cce6ed1fd32916f0da7bf4c8a3b56"
+    },
+    "doc-drift-detector": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "engineering/doc-drift-detector/SKILL.md",
+      "computedHash": "6dfb4f3caa7934d66f701216dcf5bf8439592338dd21c98dddabbf4448840144"
+    },
+    "docker-development": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "engineering/docker-development/SKILL.md",
+      "computedHash": "2897386a5c5e2aa0a8deed0435ffd49d838d37fe057af061064008e882d3b0f3"
+    },
+    "docx-toolkit": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "documents/docx-toolkit/SKILL.md",
+      "computedHash": "8e1bb61ae226ec26dd00a1c5409b2ffca2738b31ee3382969eca511584349bcc"
+    },
+    "domain-name-brainstormer": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "personal-productivity/domain-name-brainstormer/SKILL.md",
+      "computedHash": "a669a7517c145ad4ed4ccdbfebd72e56ec5fd73b04d327f41cc76ed544ba1795"
+    },
+    "dora-compliance-expert": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "ra-qm-team/dora-compliance-expert/SKILL.md",
+      "computedHash": "5f7f2def05718a472ef97933116c2a58022a39c43e4f0a834108ef576139064c"
+    },
+    "dossier": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "research/dossier/SKILL.md",
+      "computedHash": "ae78d4168b34e8fae67eaff835b1939b65c3fc526138ffc746879a7785e80c3a"
+    },
+    "dpia-assessment": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "legal/dpia-assessment/SKILL.md",
+      "computedHash": "e25ed293798c044b004c8922f49f038fe41525e16037bd8cd13d1710c06086a9"
+    },
+    "ecommerce-advisor": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "vertical-advisors/ecommerce/SKILL.md",
+      "computedHash": "2d8ed8a2204fe4ceaa66f61daee4e186bac95e704b659b6bb2ca827fd83ecc4a"
+    },
+    "edtech-advisor": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "vertical-advisors/edtech/SKILL.md",
+      "computedHash": "50ab4891ec564d555ff357928408f171b77cd167b2863153ce5568db6741421c"
+    },
+    "email-sequence": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "marketing/email-sequence/SKILL.md",
+      "computedHash": "7bb89c5cc29adbc7d082ed4f8561efbe2c51675ef630e3c2603817d0a872ffdc"
+    },
+    "email-template-builder": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "marketing/email-template-builder/SKILL.md",
+      "computedHash": "22e85b05b3ee7044303dd656ac19a838d660054cb37dfdd96cf0cef54c0743c9"
+    },
+    "email-triage": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "personal-productivity/email-triage/SKILL.md",
+      "computedHash": "61d1c0645a129be8ae9c604885e5165ea41c4626fdc30bf5318ab2c48742ae8c"
+    },
+    "env-secrets-manager": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "engineering/env-secrets-manager/SKILL.md",
+      "computedHash": "08d05c3ee8c2cf2c6efb02b257d5651b4ac5155faab1d22e6ffb869bf002f1d8"
+    },
+    "eol-communication": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "project-management/execution/eol-communication/SKILL.md",
+      "computedHash": "a93fcdee65b9a9ec3b8a7594230f450d8dd584db1b46c71d971bed4a4797e835"
+    },
+    "eu-ai-act-specialist": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "ra-qm-team/eu-ai-act-specialist/SKILL.md",
+      "computedHash": "0a68538ae9dc332c4c82a88d0ba1f948647ee7b84c99abb39b3d8d7e6be2540f"
+    },
+    "executive-mentor": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "c-level-advisor/executive-mentor/SKILL.md",
+      "computedHash": "bbca86fd9cf524c4454682eecf8e9f8e0e843b2a79a4c160941c2f52203fb340"
+    },
+    "fda-consultant-specialist": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "ra-qm-team/fda-consultant-specialist/SKILL.md",
+      "computedHash": "3c7d139f2d2468e1f3cc92d1c9e4c8378c8393e3319e03df996890a6353edc0f"
+    },
+    "fda-qsr-audit-prep": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "ra-qm-team/audit-prep/fda-qsr-audit-prep/SKILL.md",
+      "computedHash": "6e5d12ff82a573f02923b8ea6f18cb9da251de7f5735d3da8666ab5188a8e66f"
+    },
+    "feature-flag-strategy": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "project-management/execution/feature-flag-strategy/SKILL.md",
+      "computedHash": "7eadb87e4e60f0cf5e8670209ea566dcaa28e9b0bd83034ad5fd73f8cf2683ab"
+    },
+    "feature-flags-architect": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "engineering/feature-flags-architect/SKILL.md",
+      "computedHash": "9e1f633d6f2ea27723270e9c92973dff6f71b08556755b4140e9a0c1ae176063"
+    },
+    "financial-analyst": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "finance/financial-analyst/SKILL.md",
+      "computedHash": "75cdcbfd00660e8d02c01aa03cb40e17670942ff193de3f75f5344547d5d993c"
+    },
+    "fintech-advisor": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "vertical-advisors/fintech/SKILL.md",
+      "computedHash": "67c6fbf97225d42e36c1d82b9b30e9f5da4eb0a17da3f42ceb60726310302118"
+    },
+    "focused-fix": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "engineering/focused-fix/SKILL.md",
+      "computedHash": "bf1ede59142e46134fd9373c628caf6dec5aad64a1c521a36a9dde77e4d303c4"
+    },
+    "form-cro": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "business-growth/form-cro/SKILL.md",
+      "computedHash": "50f17008bec21cf6abc300eb0f33a106c24b4a55fb97fb80f5ee29c3de6332c2"
+    },
+    "founder-coach": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "c-level-advisor/founder-coach/SKILL.md",
+      "computedHash": "8b38e8e54be559251a60a8f4ed8997951eeb7ce7c99ccc2e2d9429043bd63387"
+    },
+    "free-tool-strategy": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "business-growth/free-tool-strategy/SKILL.md",
+      "computedHash": "7e54de938502ca14ab1a063b31d5999f20c06b2374db11a9bd2619e3737c5b98"
+    },
+    "gcp-cloud-architect": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "engineering/gcp-cloud-architect/SKILL.md",
+      "computedHash": "43c6971680c293f949148ffdff0ae576fdd5662a1eac884f0c95cdc512882dae"
+    },
+    "gdpr-audit-prep": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "ra-qm-team/audit-prep/gdpr-audit-prep/SKILL.md",
+      "computedHash": "4a768702632614f7e24e1f09ccd51212a24f9a45d2ce0400a5fd132213bd0eb8"
+    },
+    "gdpr-dsgvo-expert": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "ra-qm-team/gdpr-dsgvo-expert/SKILL.md",
+      "computedHash": "8dbc2041ac4437b368bd4b515c915f962d1de3086ebf8fe6d551cad9e265bfce"
+    },
+    "general-counsel-advisor": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "c-level-advisor/general-counsel-advisor/SKILL.md",
+      "computedHash": "d6b864f9999e4b4309c907f43943fd2ec6f6c8ce572fa419e767b48de0c643e1"
+    },
+    "git-worktree-manager": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "engineering/git-worktree-manager/SKILL.md",
+      "computedHash": "0de395705441e9314b3e8f6080a39af393936d075a06cea3ac250b60be25c8d1"
+    },
+    "google-workspace-cli": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "engineering/google-workspace-cli/SKILL.md",
+      "computedHash": "5c31114854c55c0a32c6157d3999de90a2265c2c2cc815deee73a41cf607ce8d"
+    },
+    "grants": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "research/grants/SKILL.md",
+      "computedHash": "17a04640ee442115f6c6a0c2ccf89d93d5278fc668b18c6614fddbd82461dcf0"
+    },
+    "growth-marketer": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "marketing/growth-marketer/SKILL.md",
+      "computedHash": "1f95ccf50f6457c5c4e730c372559ccf6cb2fe48edeb2c0a32914b8a2a6679ec"
+    },
+    "gtm-strategy": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "project-management/gtm/gtm-strategy/SKILL.md",
+      "computedHash": "062da64054750c422228c5de673bcaf221481f97ec6e333c5a30413f8d9aad50"
+    },
+    "healthtech-advisor": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "vertical-advisors/healthtech/SKILL.md",
+      "computedHash": "1dbf1a3ff6cf58668e385ba5c5ad7881813e1d76f12b7dd54f5799f353720c55"
+    },
+    "helm-chart-builder": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "engineering/helm-chart-builder/SKILL.md",
+      "computedHash": "ea78339375f8c70fd7b05f9d7e2530c310d7bac1e7c45ac337775b09a132f981"
+    },
+    "hr-business-partner": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "hr-operations/hr-business-partner/SKILL.md",
+      "computedHash": "5078f124a05b2cd2e876385784026fd4b565ecc92dfaf2e64ce9f7ed58c0cf9d"
+    },
+    "ideal-customer-profile": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "project-management/gtm/ideal-customer-profile/SKILL.md",
+      "computedHash": "620527c03b8aafb2d204f97f40730a057f88280e14c8df2ff1d48ccb8ba27362"
+    },
+    "identify-assumptions": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "project-management/discovery/identify-assumptions/SKILL.md",
+      "computedHash": "b88ca706f6f6babbefd76d3983e5922e77b7c769251db1c9bb543c5b74fcb4cf"
+    },
+    "incident-commander": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "engineering/incident-commander/SKILL.md",
+      "computedHash": "015ced75e78c257b6a2d727e1ae81b0fce129c3c3e65c5e746bce7ca75f1852b"
+    },
+    "information-security-manager-iso27001": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "ra-qm-team/information-security-manager-iso27001/SKILL.md",
+      "computedHash": "0869fcbe11f1c21cafeb2a30c1a03eeed9a5289824a5829a29783ef2887e4364"
+    },
+    "infrastructure-compliance-auditor": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "ra-qm-team/infrastructure-compliance-auditor/SKILL.md",
+      "computedHash": "a785706ebd46dbab03fd0dc90c17790f6933700ba63be49c4120b193fdb315e2"
+    },
+    "internal-narrative": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "c-level-advisor/internal-narrative/SKILL.md",
+      "computedHash": "2a33fd50893dbbcafff0fd4df815d095f471a08a05d9aea234e80e817ee618c2"
+    },
+    "interview-synthesis": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "project-management/discovery/interview-synthesis/SKILL.md",
+      "computedHash": "a9b3e52a4040a19219769063a8da489d0cced4df92374cb6cc910ff8df210da9"
+    },
+    "interview-system-designer": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "engineering/interview-system-designer/SKILL.md",
+      "computedHash": "4f7d17cd6125a7b54d0c990ad747bc14892581ba258a70058c25e7fc5cf450f8"
+    },
+    "intl-expansion": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "c-level-advisor/intl-expansion/SKILL.md",
+      "computedHash": "05a37c8d731a285208e17de48ac1e16490bdd42b7b75ec0e56632162b943cb25"
+    },
+    "investor-update-generator": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "personal-productivity/investor-update-generator/SKILL.md",
+      "computedHash": "c5b3e06849a216b20ad9435a8e25993366ea943fb88cd8e663d586539d3a34b8"
+    },
+    "invoice-organizer": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "personal-productivity/invoice-organizer/SKILL.md",
+      "computedHash": "14aa57decf386ac8dc46b7bf0800df8bc5b21edc86a429864e5be87f686c971e"
+    },
+    "isms-audit-expert": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "ra-qm-team/isms-audit-expert/SKILL.md",
+      "computedHash": "9d2ac8845499c4c0e460b31173b5f0b5a350a2d5c468f571ec485b296fb628ab"
+    },
+    "iso42001-ai-management": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "ra-qm-team/iso42001-ai-management/SKILL.md",
+      "computedHash": "74ce1b8b46e811ec8aa137c9de933f9be023f135a8e42739aaeab6bb7fe10ee8"
+    },
+    "jira-expert": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "project-management/jira-expert/SKILL.md",
+      "computedHash": "05072cb944b13fa76855342a4d825ba29dab6cc52fde40570d0a6269b3ce532d"
+    },
+    "job-stories": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "project-management/execution/job-stories/SKILL.md",
+      "computedHash": "87a4280bbd3877687019a16c21fc6a12a156c32acad11260a7a83bd51185ebc7"
+    },
+    "jtbd-workshop": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "project-management/discovery/jtbd-workshop/SKILL.md",
+      "computedHash": "54adbb9780fb7971bd3a4c2e95a9b2053432e241034ed3db9498d24ba106ac42"
+    },
+    "kubernetes-operator": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "engineering/kubernetes-operator/SKILL.md",
+      "computedHash": "175ced3accf6e4c00d7060db7b44c8eb498c06c3454aed8fada82f446e199ee6"
+    },
+    "landing-page-generator": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "marketing/landing-page-generator/SKILL.md",
+      "computedHash": "513279fb7afa3a776e78a3e3e380ca78ae4c8987cf6b0f93f216d1d5b67077b5"
+    },
+    "launch-playbook": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "project-management/execution/launch-playbook/SKILL.md",
+      "computedHash": "d39e861b66f26dd1cc3595a5688072a964e599c5cc430ef6d361d56ad85bc45f"
+    },
+    "launch-strategy": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "marketing/launch-strategy/SKILL.md",
+      "computedHash": "63c8baa866a5c3c581ab15affda5ae60517a0b70fc994d3a47b6af75209bfacd"
+    },
+    "lead-researcher": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "personal-productivity/lead-researcher/SKILL.md",
+      "computedHash": "1e3170af6417deab4855cf9320bc7541b9e259905c2c58507ffad2f565439850"
+    },
+    "lean-canvas": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "project-management/strategy-frameworks/lean-canvas/SKILL.md",
+      "computedHash": "69d5fd3d98456f7c913fd6bbcb81b4cdead7f8ef3791e1685d1bcb2dc7180346"
+    },
+    "legal-canned-responses": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "legal/legal-canned-responses/SKILL.md",
+      "computedHash": "ef69ae9efd4c5b5c0d2e3255a539e7d16163e38abab57caa6a569d3c5508002c"
+    },
+    "legal-meeting-briefing": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "legal/legal-meeting-briefing/SKILL.md",
+      "computedHash": "b373d2f9e5fef3311f01c220215401a04a7bae0406c416b572e274a6348f4573"
+    },
+    "legal-red-team": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "legal/legal-red-team/SKILL.md",
+      "computedHash": "34f861df244608dc956889e96922514e0ec8f2cf098b0f46986e4ed27fb1df10"
+    },
+    "legal-risk-assessment": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "legal/legal-risk-assessment/SKILL.md",
+      "computedHash": "976d25179bfda861fe48e72f1262494dbdcf9a6e3e9b5debd969dea3e2feda32"
+    },
+    "linear-expert": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "project-management/linear-expert/SKILL.md",
+      "computedHash": "a57658bc734a14118f6a14da8e2de9bbef6ad657d89ca3d31d9e95fba0374f32"
+    },
+    "litreview": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "research/litreview/SKILL.md",
+      "computedHash": "773555fa00e186db37b8ef0f689b7ca48ecd1d26cacb32880a8b94e337580082"
+    },
+    "llm-cost-optimizer": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "engineering/llm-cost-optimizer/SKILL.md",
+      "computedHash": "633bc6309b972013e0d0b0e65868f9f1acae96bd6753ce425e3f0477e42ba217"
+    },
+    "ma-playbook": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "c-level-advisor/ma-playbook/SKILL.md",
+      "computedHash": "26c824cdf14cfb1d1c2fe6cf05c4c06f2eeaab42a460b7abe7f5e4e74a5fd455"
+    },
+    "marketing-analyst": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "marketing/marketing-analyst/SKILL.md",
+      "computedHash": "70cfb71274008ec3739fb1a47f60cbaa5cfc2040c7bd3c9780969f3d12ba7a66"
+    },
+    "marketing-context": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "marketing/marketing-context/SKILL.md",
+      "computedHash": "2bfe435a8a25b041a016f1dabf1053405b42078385f2ae51f88e8a9203f661d6"
+    },
+    "marketing-demand-acquisition": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "marketing/marketing-demand-acquisition/SKILL.md",
+      "computedHash": "7af25f78d2e8b6782007ef70f48fa1710684d38cdd63e5866381877f8825685f"
+    },
+    "marketing-ideas": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "marketing/marketing-ideas/SKILL.md",
+      "computedHash": "6f7a8c6bcb60266e05cd651749a338da9599d1d43287a65c76fa41c7c5ff19aa"
+    },
+    "marketing-ops": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "marketing/marketing-ops/SKILL.md",
+      "computedHash": "bf9a34273de9e687116e5a9da16f9612a905db83c5e13c72678cab65cfda4764"
+    },
+    "marketing-psychology": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "marketing/marketing-psychology/SKILL.md",
+      "computedHash": "af3884d295b03ab4bdce99b024dbd3d71d4dd982f5824d1485e896d7be48f862"
+    },
+    "marketing-strategy-pmm": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "marketing/marketing-strategy-pmm/SKILL.md",
+      "computedHash": "479923fd81a86cc5236c35fd28dbbc35790c19385b6fb462acc71ae901730046"
+    },
+    "marketplace-advisor": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "vertical-advisors/marketplace/SKILL.md",
+      "computedHash": "3ab27d6a60f3fc67e9f8f110c9236938c29d92e21fe3b61013b27791157062c1"
+    },
+    "mcp-server-builder": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "engineering/mcp-server-builder/SKILL.md",
+      "computedHash": "5ace3ff4567818fd8b0af2b52b8dd1e670ecf5dc3e799f5328a7b2868e48b629"
+    },
+    "mdr-745-specialist": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "ra-qm-team/mdr-745-specialist/SKILL.md",
+      "computedHash": "8e2f3bdc0e42e0bceaa0a4e3e6a7103144a4cedd7640e5e50034f7951cc0548d"
+    },
+    "mediation-analysis": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "legal/mediation-analysis/SKILL.md",
+      "computedHash": "0c57a40d2ffadfa1bab1431eb56d93fcd003de41e01b9d15f48c835d647f6316"
+    },
+    "meeting-insights": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "personal-productivity/meeting-insights/SKILL.md",
+      "computedHash": "099dc6a43c993a7c556ef5bff9d88c03d111f3d9675180c7b59ba6ece90c1595"
+    },
+    "metrics-dashboard": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "project-management/discovery/metrics-dashboard/SKILL.md",
+      "computedHash": "1d0570972403c514ae848c103f7d6430520c79b6e2f9f6bb8b207806be096131"
+    },
+    "migration-architect": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "engineering/migration-architect/SKILL.md",
+      "computedHash": "c02c50a42af62b265694b22587b2333e9cffe12fc32100036e55c11e823ddb6d"
+    },
+    "ml-ops-engineer": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "data-analytics/ml-ops-engineer/SKILL.md",
+      "computedHash": "0c106de42d3a1abae7528f7f2af7b023c6096623601c565023a519e78c59da9e"
+    },
+    "monorepo-navigator": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "engineering/monorepo-navigator/SKILL.md",
+      "computedHash": "b520486ca8d84c40c708bef3ef451c8759f754b86340f6040a23b3ce6d3bb87a"
+    },
+    "ms365-tenant-manager": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "engineering/ms365-tenant-manager/SKILL.md",
+      "computedHash": "72f1bd470654d1ec98287cc1dc0e42031ca0a1893adc243e7f986ce1d29e342c"
+    },
+    "nda-review": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "legal/nda-review/SKILL.md",
+      "computedHash": "f305bbf8713a636a0b27360c030ebd1cd091ca1a2da50c53345c9c3feaabc460"
+    },
+    "nda-triage": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "legal/nda-triage/SKILL.md",
+      "computedHash": "a10f6692febf689ad5fd3092361a990844b1eb3ac4daadcbba8d27c06af1eca1"
+    },
+    "nis2-directive-specialist": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "ra-qm-team/nis2-directive-specialist/SKILL.md",
+      "computedHash": "d6ad02b4d2f9e05d883e62a87f05cccc9efef3e03ddf52860472afb0559e94b3"
+    },
+    "nist-csf-specialist": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "ra-qm-team/nist-csf-specialist/SKILL.md",
+      "computedHash": "600ead2a04cd54268aec7cb275088489e747bcb6859151c0cba9e6ee32afe42f"
+    },
+    "north-star-metric": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "project-management/execution/north-star-metric/SKILL.md",
+      "computedHash": "50ed81a7a86231c94701f21c35c837abce288f4c7b7578f9b1f71b0408f3944a"
+    },
+    "notion-pm": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "project-management/notion-pm/SKILL.md",
+      "computedHash": "27b7e76d0243cf14f80f0845b6ed9eccad7cd723bb77056007282211f0e86be5"
+    },
+    "observability-designer": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "engineering/observability-designer/SKILL.md",
+      "computedHash": "d64804fd30513e0131dbb213c45ed3884199514243376e07d0c8d6624f1670bb"
+    },
+    "onboarding-cro": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "business-growth/onboarding-cro/SKILL.md",
+      "computedHash": "a52c0188dd1facaa99174e1ffcb455d9ff102f151df617107d9f86b5ea0f0e73"
+    },
+    "operations-manager": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "hr-operations/operations-manager/SKILL.md",
+      "computedHash": "27b4825354098f8c745d5d0714fd405454931e2627b119db2843c006ac8405f5"
+    },
+    "opportunity-solution-tree": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "project-management/discovery/opportunity-solution-tree/SKILL.md",
+      "computedHash": "ee9659e613ca66754567cd60389e18165b1af421289b2b72b969caecd1721f60"
+    },
+    "org-health-diagnostic": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "c-level-advisor/org-health-diagnostic/SKILL.md",
+      "computedHash": "6c954b30dfd26ffc8ea94dbb014ea3c63f20fa87e304720b4cb9e25ae7718089"
+    },
+    "outcome-roadmap": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "project-management/execution/outcome-roadmap/SKILL.md",
+      "computedHash": "fb7d4e5b3d5b7eb67a8c2a67c4ea82f2a1ec5b41d49f6a769a0980ba8209d3c7"
+    },
+    "page-cro": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "business-growth/page-cro/SKILL.md",
+      "computedHash": "74ade30590606bf337a1256429f1235f93da689c551b0f49f7f2fd3f10b15b83"
+    },
+    "paid-ads": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "marketing/paid-ads/SKILL.md",
+      "computedHash": "6bba742ff4393994446278968f8650c1a58307e902255a0c25cdba86b4e9acbd"
+    },
+    "partnerships-architect": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "business-growth/partnerships-architect/SKILL.md",
+      "computedHash": "ad29bc7125ec057cfd2716127d62854e6cde52b7e42f89df42181cca2f76cdfb"
+    },
+    "patent": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "research/patent/SKILL.md",
+      "computedHash": "b06e0a8662ff5960741b2c15b1e0e02fb31c7ec4c96f631036b4fb43497e3e49"
+    },
+    "paywall-upgrade-cro": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "business-growth/paywall-upgrade-cro/SKILL.md",
+      "computedHash": "f31ef01b508315bb2073164069a863502c4c6ac17d5bebb81a06cb8b24581697"
+    },
+    "pci-dss-specialist": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "ra-qm-team/pci-dss-specialist/SKILL.md",
+      "computedHash": "35e066d2423d7c50864f073997bd0e24ea77e48cc1492ea8b4af44883e8aa3ec"
+    },
+    "pdf-toolkit": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "documents/pdf-toolkit/SKILL.md",
+      "computedHash": "6ba9cb55651ece228e44dcc9ed0c6bbcd69506805d82e10d874aa0bc91486da9"
+    },
+    "people-analytics": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "hr-operations/people-analytics/SKILL.md",
+      "computedHash": "302124b4267be3fb4e266714d6cdda0b1e8987c6e24d76afddc5e870bf2c088f"
+    },
+    "performance-profiler": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "engineering/performance-profiler/SKILL.md",
+      "computedHash": "f114b6071aa188ffc539ea392c9a91cf40b81a417b2af06ea692331153cc41e7"
+    },
+    "pitch-deck-reviewer": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "personal-productivity/pitch-deck-reviewer/SKILL.md",
+      "computedHash": "6a010f977826cdb6f23c63d8ac5470bcbe650e3a03b23c23c05051b4009d8317"
+    },
+    "playwright-pro": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "engineering/playwright-pro/SKILL.md",
+      "computedHash": "7dff4296c7c9d2d7b6d74fd2fca077f84ce43d6bd1bef3c93369486c00ba81a4"
+    },
+    "pm-1on1s": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "project-management/career/pm-1on1s/SKILL.md",
+      "computedHash": "3970bedc7c0800a000b8ca6bc39c9c50d137b86fecc8fab07bd3b0fc1bef5d51"
+    },
+    "pm-career-ladder": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "project-management/career/pm-career-ladder/SKILL.md",
+      "computedHash": "909b177ede720734e9f949e3d180c99690a5314b8de9278e76168270c5ecd6c4"
+    },
+    "pm-interview-prep": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "project-management/career/pm-interview-prep/SKILL.md",
+      "computedHash": "f98942c89c861483d8f9e362319bcfbf57e8f05fc482b99751cef60c5405f020"
+    },
+    "pm-onboarding": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "project-management/career/pm-onboarding/SKILL.md",
+      "computedHash": "5155c5bbf7a0baeb56aabb23ff6e2db4ac405d8a9114afa9564498da733259a6"
+    },
+    "popup-cro": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "business-growth/popup-cro/SKILL.md",
+      "computedHash": "1a3a279a833b482a26439898e0559cdaf9167532afe7f9e9c6fe354655471dbc"
+    },
+    "porters-five-forces": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "project-management/strategy-frameworks/porters-five-forces/SKILL.md",
+      "computedHash": "079eadc4b459057315e1cac978eb3e6b27f366a2ec68e8918ca65d0290477ff7"
+    },
+    "post-mortem": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "project-management/execution/post-mortem/SKILL.md",
+      "computedHash": "896113d9cdfb28c6ded41275bca7ccfb0ab7bd0b7f458b4bc12f6cfb1a59868b"
+    },
+    "power-bi-business-analysis": {
+      "source": "datacoolie/powerbi-skills",
+      "sourceType": "github",
+      "skillPath": "skills/power-bi-business-analysis/SKILL.md",
+      "computedHash": "72616d37962229651bf109bd12dfd932094e2d3d1d640594f59d5cbbe92d19c5"
+    },
+    "power-bi-dax-development": {
+      "source": "datacoolie/powerbi-skills",
+      "sourceType": "github",
+      "skillPath": "skills/power-bi-dax-development/SKILL.md",
+      "computedHash": "5d78a7bceb2fc00e0381f93f4c37ec7f51dab7c69ea3cd5e04eb5d2a0d7984b8"
+    },
+    "power-bi-feedback-iteration": {
+      "source": "datacoolie/powerbi-skills",
+      "sourceType": "github",
+      "skillPath": "skills/power-bi-feedback-iteration/SKILL.md",
+      "computedHash": "15a3bcbe773a10775f5e7023cfe10b11ab4dc0ee31f54dbfe3d4eea2abbe2db6"
+    },
+    "power-bi-pbip-report": {
+      "source": "datacoolie/powerbi-skills",
+      "sourceType": "github",
+      "skillPath": "skills/power-bi-pbip-report/SKILL.md",
+      "computedHash": "285e9cb9af41c89b9c5a708d6558ad78a2ffda2e420339f4f60a035f64cf26dc"
+    },
+    "power-bi-performance-troubleshooting": {
+      "source": "datacoolie/powerbi-skills",
+      "sourceType": "github",
+      "skillPath": "skills/power-bi-performance-troubleshooting/SKILL.md",
+      "computedHash": "8343f51e0a44c4e722d80e589e236e837731a46652644af6b1b79c8242cdd43a"
+    },
+    "power-bi-report-design": {
+      "source": "datacoolie/powerbi-skills",
+      "sourceType": "github",
+      "skillPath": "skills/power-bi-report-design/SKILL.md",
+      "computedHash": "bc1a2594f7222c6907ffb894a5d1500746c2a82d3de86c3ae8b20e472cd9d44a"
+    },
+    "power-bi-semantic-model": {
+      "source": "datacoolie/powerbi-skills",
+      "sourceType": "github",
+      "skillPath": "skills/power-bi-semantic-model/SKILL.md",
+      "computedHash": "d3de68c5f96034c71fb2a4c4d5a488dc9098eae6363d65f104056d2a0ac6a3f4"
+    },
+    "pptx-toolkit": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "documents/pptx-toolkit/SKILL.md",
+      "computedHash": "34c0dfda8dca456ddbf15751dac60eacf9fb16905f8e145390dad0b9cd8792fe"
+    },
+    "pr-review-expert": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "engineering/pr-review-expert/SKILL.md",
+      "computedHash": "d925ab0f705a990fd9a4d2dde4be6098835a645ac4a76d987dd75eff20c3b8d9"
+    },
+    "pre-mortem": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "project-management/discovery/pre-mortem/SKILL.md",
+      "computedHash": "4d5b7da7747adbc983c9ea6882a3ce46a8aeabf52215785b429639b8f386c88b"
+    },
+    "prfaq": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "project-management/execution/prfaq/SKILL.md",
+      "computedHash": "403dfeb16abb1af5b5e575cc157af5083a88ee1bf998df15c76681206510a294"
+    },
+    "pricing-prd": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "project-management/execution/pricing-prd/SKILL.md",
+      "computedHash": "1849a191c2343d2fbc74fd7d825bdc8fc78f637c769426d574e1d4167df74465"
+    },
+    "pricing-strategy": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "business-growth/pricing-strategy/SKILL.md",
+      "computedHash": "116c01ff2e6b5ce66c7946d36ff00242433d04b864db3ff47993c445d3fcc9fe"
+    },
+    "prioritization-frameworks": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "project-management/execution/prioritization-frameworks/SKILL.md",
+      "computedHash": "df60260f453de8bd36a5e75240b26dc60d328cfab531bedc13bca31b11a9edbe"
+    },
+    "privacy-compliance": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "legal/privacy-compliance/SKILL.md",
+      "computedHash": "f3ec9a74cde9d6e0b5a47741dc23ceed561779f550eba9778372640832f66555"
+    },
+    "privacy-notice-generator": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "legal/privacy-notice-generator/SKILL.md",
+      "computedHash": "b655185310071a44f36efd622edb1b420d55acdebbb6acca03eb263144fdf8dc"
+    },
+    "product-analytics": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "product-team/product-analytics/SKILL.md",
+      "computedHash": "debce642c6c7014733ca33ececd29799e19102f61631bd9c23bd194d65e177c7"
+    },
+    "product-designer": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "product-team/product-designer/SKILL.md",
+      "computedHash": "4519eef7ed0593077e08c092701fb0e8d65d0b3b527421bc0cb6e9e6448869a4"
+    },
+    "product-manager-toolkit": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "product-team/product-manager-toolkit/SKILL.md",
+      "computedHash": "6ab4923aeab2102fbeac680da07746db43a462ab762e565eda5777ec4ca66f53"
+    },
+    "product-strategist": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "product-team/product-strategist/SKILL.md",
+      "computedHash": "458af66c3352e5c467eff6a2ed6d141ca268a6f8401c4cb2ddfa1bc3833cf297"
+    },
+    "product-vision": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "project-management/execution/product-vision/SKILL.md",
+      "computedHash": "7378574457f37a9ac21c9f55e559e9d804d8aa4d265be97a5ad810ee9dbbef29"
+    },
+    "productboard-expert": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "project-management/productboard-expert/SKILL.md",
+      "computedHash": "fa791b7982c0183c6c492869a6133b222d26d80f94908af5de102785b7bc82c9"
+    },
+    "program-manager": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "project-management/program-manager/SKILL.md",
+      "computedHash": "f78a7ae39510f850f58db7543cbbd48ba8e2731b7eb44d083ade649f1d6b0bdc"
+    },
+    "programmatic-seo": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "marketing/programmatic-seo/SKILL.md",
+      "computedHash": "70a1761d5da6032039f89584a5bbb58a00606da83d6d800ffb833662a63ddfe5"
+    },
+    "prompt-engineer-toolkit": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "engineering/prompt-engineer-toolkit/SKILL.md",
+      "computedHash": "ba73a2a906e33af716e3dee733897596bc6733994f03286cf4fd44d9e5216296"
+    },
+    "prompt-governance": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "engineering/prompt-governance/SKILL.md",
+      "computedHash": "9f32109258faa2a49750d345dab52b11b426b8e49f91471510b31b2f4b0b382f"
+    },
+    "proptech-advisor": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "vertical-advisors/proptech/SKILL.md",
+      "computedHash": "924c7f851cf38a0d841f3499f5e093f3605901448a532653518541d3a59ba9e1"
+    },
+    "qa-browser-automation": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "engineering/qa-browser-automation/SKILL.md",
+      "computedHash": "29c9814559f3eca448a2bb2143bbd277cb29f24a59461791dbc871487f71ed4e"
+    },
+    "qms-audit-expert": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "ra-qm-team/qms-audit-expert/SKILL.md",
+      "computedHash": "46b47eebeb96be9862ef75aab7e9f83b457d5a263ecf2e9846776a749fe43cd4"
+    },
+    "quality-documentation-manager": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "ra-qm-team/quality-documentation-manager/SKILL.md",
+      "computedHash": "34b6b92d9079385a911ac14b92aa05e87901f56ef5746e09563a0049ec7f16b9"
+    },
+    "quality-manager-qmr": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "ra-qm-team/quality-manager-qmr/SKILL.md",
+      "computedHash": "a5dfcb52f3d17d6139ef5bd2310d4be9b41b1f9b9d65c441481b7a1cb7b483e6"
+    },
+    "quality-manager-qms-iso13485": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "ra-qm-team/quality-manager-qms-iso13485/SKILL.md",
+      "computedHash": "0d05f83a32cfa7471850e425b8e0a2c9aad95016a4fd1d6333afc8cd255c76ab"
+    },
+    "quarterly-planning": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "project-management/execution/quarterly-planning/SKILL.md",
+      "computedHash": "1ac559d5538e9559e8cc467a11dff727689d8f07ed0c57b4e4634ed91f2d36a2"
+    },
+    "rag-architect": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "engineering/rag-architect/SKILL.md",
+      "computedHash": "65241b8fd6c8822e798927eac49b1c7f0191fe99a0ca8d6e0b04ca7f7e28d119"
+    },
+    "red-team": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "engineering/red-team/SKILL.md",
+      "computedHash": "8d5e6e8d20b8aa3d494c7d7ad058404bb9b9ba7f8bcba3e60f72017d620c487e"
+    },
+    "referral-program": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "business-growth/referral-program/SKILL.md",
+      "computedHash": "cec4c1b21ae7dbd7832fcb81ef19eccddfaa3c089aca3467270d0856378513fa"
+    },
+    "regulatory-affairs-head": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "ra-qm-team/regulatory-affairs-head/SKILL.md",
+      "computedHash": "6d3710412d63dfacd1ae9c639117808dcce4530f95af6166f965a005f308efc9"
+    },
+    "release-manager": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "engineering/release-manager/SKILL.md",
+      "computedHash": "0aeb6180bb1905e0492ccd76f6baf2d1b843cca37373bc825d1cd273a4e7919b"
+    },
+    "release-notes": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "project-management/execution/release-notes/SKILL.md",
+      "computedHash": "75d7cf167980f4dee2b8856c717a1ff589f3de686c772f5f23176512135f8c62"
+    },
+    "release-orchestrator": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "engineering/release-orchestrator/SKILL.md",
+      "computedHash": "8a95923fbda6f041b42103241398e283b3fbd36345febab38ffe264c914d57b7"
+    },
+    "research-summarizer": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "product-team/research-summarizer/SKILL.md",
+      "computedHash": "bccc86ac4a0374cee605aa162d1c1f130edae22084ac95196fcd463a748ca72b"
+    },
+    "resume-tailor": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "personal-productivity/resume-tailor/SKILL.md",
+      "computedHash": "f5bbd94ecc749bd461a9f8cd6f8744de68c6ff2265783ddac2325479d1f805f0"
+    },
+    "revenue-operations": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "business-growth/revenue-operations/SKILL.md",
+      "computedHash": "8cf82db999ec337b6241ae497a30dff532fe326035017c68ff4cdc8b65a07723"
+    },
+    "risk-management-specialist": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "ra-qm-team/risk-management-specialist/SKILL.md",
+      "computedHash": "a38f40cc1ad88262795151af0f4b72ed6ef580bda45349a4cfc8b7be9ec8c3e6"
+    },
+    "roadmap-communication": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "project-management/execution/roadmap-communication/SKILL.md",
+      "computedHash": "5d9b068359222af97f0ab713faf7d1becd1ade46a5db57864ed78221fa0cba7b"
+    },
+    "roadmap-communicator": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "product-team/roadmap-communicator/SKILL.md",
+      "computedHash": "d85f5943e08443e4d580c39aa0756c626969b037f7530a14f8a2290d4d7e0138"
+    },
+    "runbook-generator": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "engineering/runbook-generator/SKILL.md",
+      "computedHash": "4ccf108b2815cbc8b290e750bc46544f6f833914c69af75513346517aba04f53"
+    },
+    "saas-metrics-coach": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "finance/saas-metrics-coach/SKILL.md",
+      "computedHash": "8707a69c07a0233e1d3d856fc96d792314daa19a6c2d1ac84514d087a08c8d8e"
+    },
+    "saas-scaffolder": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "engineering/saas-scaffolder/SKILL.md",
+      "computedHash": "9028d2b4581070f45cecc207e88e4836f1e0d7ea18bc6cd212fda596d87d7251"
+    },
+    "sales-engineer": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "business-growth/sales-engineer/SKILL.md",
+      "computedHash": "c2c21958ddfbfc86b14c07a44d0fe9c523fa61620194125f5a6e26178ce3539e"
+    },
+    "sales-operations": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "sales-success/sales-operations/SKILL.md",
+      "computedHash": "65c9a95e3560e6ebe5b60c778c45a003c0273d1d96ec8e9dc556590f4fd429e0"
+    },
+    "sample-text-processor": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "engineering/skill-tester/assets/sample-skill/SKILL.md",
+      "computedHash": "d7b0c5628be45f4bcc814b21623ca5b7b9aa18cb2816adf324aec4b3d048775a"
+    },
+    "scenario-war-room": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "c-level-advisor/scenario-war-room/SKILL.md",
+      "computedHash": "7b30df5ee0c6be0f6340292cdeea9f409944a03e5da3024513e352fef16ad37a"
+    },
+    "schema-markup": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "marketing/schema-markup/SKILL.md",
+      "computedHash": "3b2bc6b656047d5a16d5926611d349877742378ee1dd0c69854dd575524ecb9f"
+    },
+    "scrum-master": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "project-management/scrum-master/SKILL.md",
+      "computedHash": "1bd786c50dc77feb5035b7b238908c6e772d91e33967d0406d0a4a73fe798967"
+    },
+    "secrets-vault-manager": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "engineering/secrets-vault-manager/SKILL.md",
+      "computedHash": "bf0c79c7c032ae3d04f1929042013ca43efb9fa345ac361a10646c0132bca584"
+    },
+    "self-improving-agent": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "engineering/self-improving-agent/SKILL.md",
+      "computedHash": "453798ea49fb849405fa9b65555484c7a8769b87923cdea13da6d8c0ea1ec6ef"
+    },
+    "senior-architect": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "engineering/senior-architect/SKILL.md",
+      "computedHash": "865c3e4f9b035d422d452a4e13fd4b9b8a3f244326e177336aebe6877717af82"
+    },
+    "senior-backend": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "engineering/senior-backend/SKILL.md",
+      "computedHash": "95ea0a6b0a2ba46dc41d20b22a1df73249700524f5336910f423a10637c9dfcb"
+    },
+    "senior-computer-vision": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "engineering/senior-computer-vision/SKILL.md",
+      "computedHash": "935bfe50669c3b3a067428832432b1c870a50946faaca158c411f6532a75c18c"
+    },
+    "senior-data-engineer": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "engineering/senior-data-engineer/SKILL.md",
+      "computedHash": "6126daa7e983a9af7b714a12ca82dbdea0cc633a25481ffe0f560223a0550cc0"
+    },
+    "senior-devops": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "engineering/senior-devops/SKILL.md",
+      "computedHash": "fcc33d1f7723e3b337102fcb11451036c8b26f9f66f8730b392f8442da2e368a"
+    },
+    "senior-frontend": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "engineering/senior-frontend/SKILL.md",
+      "computedHash": "44c27460a4e28b99ab05a929ae69d784c0365876398fb75fd75ad03a8f14e388"
+    },
+    "senior-fullstack": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "engineering/senior-fullstack/SKILL.md",
+      "computedHash": "f5c15045afa71c060c8539215b4b372e2f6d755aca3e9f88449f1566ecef5e3f"
+    },
+    "senior-ml-engineer": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "engineering/senior-ml-engineer/SKILL.md",
+      "computedHash": "2e6d9d6e045329eefa619c93e2be842fb5b0df4359da029023ccfbd435244ef3"
+    },
+    "senior-pm": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "project-management/senior-pm/SKILL.md",
+      "computedHash": "140c28b6359652ebae3771f14c296b28566fdc19cd467ec037cb4b48b8366d48"
+    },
+    "senior-prompt-engineer": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "engineering/senior-prompt-engineer/SKILL.md",
+      "computedHash": "94166214357e058bd6ef19dda2e2a1fef96ce35b5beadfd2b8cc577b7db30a8e"
+    },
+    "senior-qa": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "engineering/senior-qa/SKILL.md",
+      "computedHash": "234543ec1ab328ac1a9a354eb4a742807cb4009a8a4636739f31c43f53ef3968"
+    },
+    "senior-secops": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "engineering/senior-secops/SKILL.md",
+      "computedHash": "069d29929c410acd8a224846a2eaf264c328f8f4b45a4f320b665db36ffa4314"
+    },
+    "senior-security": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "engineering/senior-security/SKILL.md",
+      "computedHash": "a87daa58baff88b294b099ed9c014691ad0548e360af2e135c0489db5d44d345"
+    },
+    "seo-audit": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "marketing/seo-audit/SKILL.md",
+      "computedHash": "e063b00146d11c7cca8a6183bd3774303e72a09f514c052116343b6d4dda43ed"
+    },
+    "seo-specialist": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "marketing/seo-specialist/SKILL.md",
+      "computedHash": "7df2c1419e9f2e026eec1cafd373086c323c97dce834af4e3099ee92336dad60"
+    },
+    "signup-flow-cro": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "business-growth/signup-flow-cro/SKILL.md",
+      "computedHash": "0dd9d8191a4825d8749061e2d8d73bc0c8c968161004282375f439a47180e2b6"
+    },
+    "site-architecture": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "marketing/site-architecture/SKILL.md",
+      "computedHash": "6e5325b9c20468c89f786eb9408fa008d1c86712246d2ba76ceddb3c0b4064a6"
+    },
+    "skill-security-auditor": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "engineering/skill-security-auditor/SKILL.md",
+      "computedHash": "c266aade759517972f7d802251ee6da12092e7900035bcebaffa625bcee5526f"
+    },
+    "skill-tester": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "engineering/skill-tester/SKILL.md",
+      "computedHash": "b9bfb757c5d0ed47b85887b3bfb430b81847351b21b93f8743c18430ed453431"
+    },
+    "snowflake-development": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "engineering/snowflake-development/SKILL.md",
+      "computedHash": "6503c9798d0b7bf62997a8b8e1d398a019c9bfc5a6f3a4220cb67449e5b92c5e"
+    },
+    "soc2-audit-prep": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "ra-qm-team/audit-prep/soc2-audit-prep/SKILL.md",
+      "computedHash": "1148e6c0258be4f580ecd0b48e4e8cce3a2cf64988037d18c391676c26725d8c"
+    },
+    "soc2-compliance-expert": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "ra-qm-team/soc2-compliance-expert/SKILL.md",
+      "computedHash": "d9c80df400592f5206f8e1da034db3652ffbac3714c6196a9a6fc95341302f89"
+    },
+    "social-content": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "marketing/social-content/SKILL.md",
+      "computedHash": "7760d7de0c7ab6bfca5c25f59a8f1e0f14d81580e09e56924bb0ea94ac74548e"
+    },
+    "social-media-analyzer": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "marketing/social-media-analyzer/SKILL.md",
+      "computedHash": "a9137a13ee1ed29e928fc85f1ac54934ea06ca76e4ffddcd534f513f9c602852"
+    },
+    "social-media-manager": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "marketing/social-media-manager/SKILL.md",
+      "computedHash": "1c7617579f340150d8c5416b5279225290e80bc20225164ef70dca5698a2b6b3"
+    },
+    "solutions-architect": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "sales-success/solutions-architect/SKILL.md",
+      "computedHash": "0e7437d9e6c0d8a543288856ca3cb2a7e6e188cfd4337ce1a2a34d23716f3845"
+    },
+    "spec-to-repo": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "product-team/spec-to-repo/SKILL.md",
+      "computedHash": "c267a08d8b819aa6243a3f6b42a7f3fde533782d26dfc2a1fd7244512383d0ca"
+    },
+    "sprint-plan": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "project-management/execution/sprint-plan/SKILL.md",
+      "computedHash": "c85a12a9642897f0e628c0449a0787b175bfc4389f8f6f121486706ac6313516"
+    },
+    "sprint-retrospective": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "project-management/sprint-retrospective/SKILL.md",
+      "computedHash": "57eceb30b0a825da2d912cc520f1100cf8e19e543523a1aeb4d4b5115cba66ab"
+    },
+    "sql-database-assistant": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "engineering/sql-database-assistant/SKILL.md",
+      "computedHash": "4d9af7e209dde72fa0aff212ec6c08913823af92f88143c8c83c762746dd38c4"
+    },
+    "stakeholder-map": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "project-management/execution/stakeholder-map/SKILL.md",
+      "computedHash": "7e2cc3aa6e9f4b07d49645c47b1c14c83cf68162c466037ef9040d64ed0b54f0"
+    },
+    "status-update-generator": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "project-management/execution/status-update-generator/SKILL.md",
+      "computedHash": "faf53ebd204370cd3b59e04cc48cdb5176c309beba974c0a84afab10b07d53ec"
+    },
+    "statute-analysis": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "legal/statute-analysis/SKILL.md",
+      "computedHash": "d4bfb158daca97ddd7e5374bd6ab86b31d127f30405eee4b0ce0bc7fe5e48650"
+    },
+    "story-mapping": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "project-management/execution/story-mapping/SKILL.md",
+      "computedHash": "2192863bb82f1af5277921ee5eea56b73aa637e34bd29944f03c10bee8c2a31f"
+    },
+    "story-splitting": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "project-management/execution/story-splitting/SKILL.md",
+      "computedHash": "4539e39c1bd6a6fb6ab7e414a56a4035ca7a48facdf431d622c234e6a52730b7"
+    },
+    "strategic-alignment": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "c-level-advisor/strategic-alignment/SKILL.md",
+      "computedHash": "6c78a86d12297e9ea55cebd4380ac0a8e3e243484b6ff529b8a15ff5b385fdf9"
+    },
+    "stripe-integration-expert": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "engineering/stripe-integration-expert/SKILL.md",
+      "computedHash": "eb9a810ca8f6ce7386f675b90391cb87af3dd947f66412ad57b3841ec9f648b8"
+    },
+    "summarize-meeting": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "project-management/execution/summarize-meeting/SKILL.md",
+      "computedHash": "8df763b35c15ced9f871377c0c8414d83fb9e621d6f09c889bbc58fe6723a053"
+    },
+    "swot-analysis": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "project-management/strategy-frameworks/swot-analysis/SKILL.md",
+      "computedHash": "6a69a93658fe8bf743ae009682f08e89a6e3b416bad36caca1ca7468e7d02d57"
+    },
+    "tabular-document-review": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "legal/tabular-document-review/SKILL.md",
+      "computedHash": "74374b7f4be8bee334eb09f410ebd8c4a795ab614dd4e08df998ddd08149e34e"
+    },
+    "talent-acquisition": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "hr-operations/talent-acquisition/SKILL.md",
+      "computedHash": "d588788142c1766fe5ee08650556876ee42eba63acc6d0a81bba661904e2a8aa"
+    },
+    "tdd-guide": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "engineering/tdd-guide/SKILL.md",
+      "computedHash": "7463fb86c5c5d0046773d0364580c32524ec14de21cf7dfbb505e01e03feae90"
+    },
+    "tech-contract-negotiation": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "legal/tech-contract-negotiation/SKILL.md",
+      "computedHash": "25011674e25d11d30c8182ed38f847089314b6f39a5e0f1b2863b42691df1e97"
+    },
+    "tech-debt-tracker": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "engineering/tech-debt-tracker/SKILL.md",
+      "computedHash": "346e1db7a83266ff01d36b2adf8511536949b7b9e638213490e29d17e9b475e4"
+    },
+    "tech-stack-evaluator": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "engineering/tech-stack-evaluator/SKILL.md",
+      "computedHash": "4cdcafb3dc4d0139b670bc207798012cbce58718f7bc581e26edcc5bf46d972f"
+    },
+    "terraform-patterns": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "engineering/terraform-patterns/SKILL.md",
+      "computedHash": "dc191c5629e2db061e9e3354447465579e538d593cb6c67691778ce99a912e2a"
+    },
+    "test-scenarios": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "project-management/execution/test-scenarios/SKILL.md",
+      "computedHash": "0f2921df64878414c80454ffc24cc88ffe2f3d541a0e30e3b1ef00b0b812077d"
+    },
+    "threat-detection": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "engineering/threat-detection/SKILL.md",
+      "computedHash": "14967fe02c26381c0152e71507929c37025bc19d6b8f111011b9b7cb94a15f5e"
+    },
+    "ui-design-system": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "product-team/ui-design-system/SKILL.md",
+      "computedHash": "1f78bea1a39397a2bc0591b5ff5bb7bf0231a50232e1c3254310a18c04d04f7e"
+    },
+    "ux-researcher-designer": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "product-team/ux-researcher-designer/SKILL.md",
+      "computedHash": "2259988af12f218de6845263c22513ac32fa7d01450143980680e094f3f6b183"
+    },
+    "value-proposition-canvas": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "project-management/discovery/value-proposition-canvas/SKILL.md",
+      "computedHash": "c84023185d815a5bd439bacda440dea538128f9d515632015c4b08d391060012"
+    },
+    "vendor-due-diligence": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "legal/vendor-due-diligence/SKILL.md",
+      "computedHash": "618f11d69e80e18826de67c538b8509e1e146663ba5d04750c515e80bd2f9b6e"
+    },
+    "vercel-cli-with-tokens": {
+      "source": "vercel-labs/agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/vercel-cli-with-tokens/SKILL.md",
+      "computedHash": "a2f596ac516fe8986386f9562f4c94604af9fb6a0fc417d263cbe6dc05117b72"
+    },
+    "vercel-composition-patterns": {
+      "source": "vercel-labs/agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/composition-patterns/SKILL.md",
+      "computedHash": "f98931159fa9c7fed043bcd18a891a46dcf89ababa38df13a4c5b7b30dc0ce07"
+    },
+    "vercel-optimize": {
+      "source": "vercel-labs/agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/vercel-optimize/SKILL.md",
+      "computedHash": "646c927b6bf575e65b721abeead453fbb2c95ca3c580f9df646b9ceecc05a02b"
+    },
+    "vercel-react-best-practices": {
+      "source": "vercel-labs/agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/react-best-practices/SKILL.md",
+      "computedHash": "3219a1944e404ffc14d1d9d6aef6dd2e3855b81387ee0a044ccbfe14d34c2357"
+    },
+    "vercel-react-native-skills": {
+      "source": "vercel-labs/agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/react-native-skills/SKILL.md",
+      "computedHash": "2e9088a7333666d8c2833b8ff58bd51b955501c42b4c7244f72b4cbf22dafcc4"
+    },
+    "vercel-react-view-transitions": {
+      "source": "vercel-labs/agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/react-view-transitions/SKILL.md",
+      "computedHash": "4fea9144f604256d0a21faaea904b7e205e7676e316721ba5fdd68c2600c7d42"
+    },
+    "video-content-strategist": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "marketing/video-content-strategist/SKILL.md",
+      "computedHash": "da20ab675da8875de4939ebf186b7a279c1ef58473c85861d77a4e076ab4c8d9"
+    },
+    "vpe-advisor": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "c-level-advisor/vpe-advisor/SKILL.md",
+      "computedHash": "7a00793a45ae44cf36d37def98d54ff3adbc1cf89fd42d29e62b45b3ff34c59c"
+    },
+    "web-design-guidelines": {
+      "source": "vercel-labs/agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/web-design-guidelines/SKILL.md",
+      "computedHash": "a6a44d5498f7e8f68289902f3dedfc6f38ae0cee1e96527c80724cf27f727c2a"
+    },
+    "weekly-review": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "personal-productivity/weekly-review/SKILL.md",
+      "computedHash": "dbc92f28550ecffcdaea9e30df4df1e2a549d04b967a6c458543411b9bef03cf"
+    },
+    "whistleblower-compliance": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "legal/whistleblower-compliance/SKILL.md",
+      "computedHash": "4fa05b76d6539f3c12a3e4c22b1bc5697bb8c49c1dc02738a4c2835dbe93d12a"
+    },
+    "writing-guidelines": {
+      "source": "vercel-labs/agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/writing-guidelines/SKILL.md",
+      "computedHash": "e90462d4f801d823603b12c345ad0ff91a7489415274432681d21c7129123c26"
+    },
+    "wwas": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "project-management/execution/wwas/SKILL.md",
+      "computedHash": "1ad25bb7fd822825d449e38f2d32d0213a00c793d1dbc1d5bdfe6b03d8a6b2fe"
+    },
+    "x-twitter-growth": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "marketing/x-twitter-growth/SKILL.md",
+      "computedHash": "eeef68911be1611f197b6961e445c65d6b3f0364eefae17c893a742f24b98b9f"
+    },
+    "xlsx-toolkit": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "documents/xlsx-toolkit/SKILL.md",
+      "computedHash": "6c544cf4259d8908a08d03bd187040aaf495d44e472d6d559c9c9e95dae03ee7"
+    }
+  }
+}
