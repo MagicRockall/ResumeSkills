@@ -1,5 +1,15 @@
 {
   "mcpServers": {
+    "github": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-github"
+      ],
+      "env": {
+        "GITHUB_PERSONAL_ACCESS_TOKEN": "<your-github-token>"
+      }
+    },
     "postgresql": {
       "command": "npx",
       "args": [
