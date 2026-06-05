@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "skills": {
+    "power-bi-business-analysis": {
+      "source": "datacoolie/powerbi-skills",
+      "sourceType": "github",
+      "skillPath": "skills/power-bi-business-analysis/SKILL.md",
+      "computedHash": "72616d37962229651bf109bd12dfd932094e2d3d1d640594f59d5cbbe92d19c5"
+    },
+    "power-bi-dax-development": {
+      "source": "datacoolie/powerbi-skills",
+      "sourceType": "github",
+      "skillPath": "skills/power-bi-dax-development/SKILL.md",
+      "computedHash": "5d78a7bceb2fc00e0381f93f4c37ec7f51dab7c69ea3cd5e04eb5d2a0d7984b8"
+    },
+    "power-bi-feedback-iteration": {
+      "source": "datacoolie/powerbi-skills",
+      "sourceType": "github",
+      "skillPath": "skills/power-bi-feedback-iteration/SKILL.md",
+      "computedHash": "15a3bcbe773a10775f5e7023cfe10b11ab4dc0ee31f54dbfe3d4eea2abbe2db6"
+    },
+    "power-bi-pbip-report": {
+      "source": "datacoolie/powerbi-skills",
+      "sourceType": "github",
+      "skillPath": "skills/power-bi-pbip-report/SKILL.md",
+      "computedHash": "285e9cb9af41c89b9c5a708d6558ad78a2ffda2e420339f4f60a035f64cf26dc"
+    },
+    "power-bi-performance-troubleshooting": {
+      "source": "datacoolie/powerbi-skills",
+      "sourceType": "github",
+      "skillPath": "skills/power-bi-performance-troubleshooting/SKILL.md",
+      "computedHash": "8343f51e0a44c4e722d80e589e236e837731a46652644af6b1b79c8242cdd43a"
+    },
+    "power-bi-report-design": {
+      "source": "datacoolie/powerbi-skills",
+      "sourceType": "github",
+      "skillPath": "skills/power-bi-report-design/SKILL.md",
+      "computedHash": "bc1a2594f7222c6907ffb894a5d1500746c2a82d3de86c3ae8b20e472cd9d44a"
+    },
+    "power-bi-semantic-model": {
+      "source": "datacoolie/powerbi-skills",
+      "sourceType": "github",
+      "skillPath": "skills/power-bi-semantic-model/SKILL.md",
+      "computedHash": "d3de68c5f96034c71fb2a4c4d5a488dc9098eae6363d65f104056d2a0ac6a3f4"
+    }
+  }
+}
