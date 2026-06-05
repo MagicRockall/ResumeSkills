@@ -1,6 +1,12 @@
 {
   "version": 1,
   "skills": {
+    "data-scientist": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "skillPath": "data-analytics/data-scientist/SKILL.md",
+      "computedHash": "fa0318bb139b414b83e9a46ef9f8d7c92bac1335da59410523eb28a6ae833ae6"
+    },
     "deploy-to-vercel": {
       "source": "vercel-labs/agent-skills",
       "sourceType": "github",
